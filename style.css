@@ -1,0 +1,64 @@
+*{
+  font-family: Helvetica, Arial, sans-serif;
+  text-align: center;
+}
+
+div{
+  margin: 0px;
+  padding: 0px;
+}
+
+img{
+  height: 256px;
+  width: 256px;
+  box-shadow: none !important;
+}
+
+button{
+  padding: 5px 9px;
+  border: 1px solid black;
+  margin: 0px 5px 0px 0px;
+}
+
+#status{
+  margin-top: 10%;
+}
+
+#app{
+  margin: 0px 0px 20px 0px;
+}
+
+#input{
+  display: inline;
+}
+
+canvas{
+  border: 1px solid rgb(224, 224, 224);
+}
+
+#output{
+  border: 1px solid rgb(224, 224, 224);
+  height: 256px;
+  width: 256px;
+}
+
+#colors div{
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  margin: 0 10px 12px;
+  display: inline-block;
+}
+
+#red{
+  background: rgb(255, 0, 0);
+}
+
+#blue{
+  background: rgb(0, 0, 255);
+}
+
+#white{
+  background: white;
+  border: 1px solid rgb(236, 236, 236);
+}
