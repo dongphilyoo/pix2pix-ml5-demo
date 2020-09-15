@@ -1,6 +1,5 @@
-# pix2pix-ml5-demo<br/>
-[blog post](https://medium.com/@dongphilyoo/how-to-train-pix2pix-model-and-generating-on-the-web-with-ml5-js-87d879fb4224)
-![](https://media.giphy.com/media/J13pCflhMCXEr3yYll/giphy.gif)
+# pix2pix-ml5-demo<br/><br/>
+## [blog post](https://medium.com/@dongphilyoo/how-to-train-pix2pix-model-and-generating-on-the-web-with-ml5-js-87d879fb4224)
 <img src="https://media.giphy.com/media/J13pCflhMCXEr3yYll/giphy.gif" width="1200">
 
 ### [Pix2Pix](#Pix2Pix)
